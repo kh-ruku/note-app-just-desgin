@@ -1,6 +1,7 @@
 # note_app
-
-A new Flutter project.
+ 
+ just a simple design for a note app for learning Flutter
+ made by @kh-ruku
 
 ## Getting Started
 
